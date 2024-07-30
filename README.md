@@ -1,1 +1,1 @@
-# Codewar challenges from Javascript language 
+# Codewar challenges using Javascript language 
